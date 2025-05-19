@@ -1,3 +1,6 @@
+# exercicios-js
+Exercícios de lógica com operações, estruturas condicionais e repetição
+
 # Exercícios de JavaScript
 
 Este repositório contém 15 exercícios simples que abordam:
